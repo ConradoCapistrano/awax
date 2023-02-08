@@ -1,4 +1,4 @@
-# awax Project
+# Awax Project
 
 ## Sobre o projeto
 
